@@ -1,2 +1,2 @@
 # Operating-Systems-Project
-A Management App using Django and HTML
+A Management App using Django
